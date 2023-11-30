@@ -27,7 +27,7 @@ def main():
             res_rep = rep(user_input)
             print(res_rep)
         except EOFError:
-            sys.exit("bye! :3")
+            sys.exit("\nbye! :3")
 
 
 if __name__ == "__main__":
